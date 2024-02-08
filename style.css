@@ -126,7 +126,7 @@
   .desktop .text-wrapper-2 {
     position: absolute;
     top: 165px;
-    left: 90px;
+    left: 85px;
     font-family: 'M PLUS 1p', sans-serif;
     font-weight: 400;
     color: #000000;
@@ -182,8 +182,8 @@
   }
   
   .desktop .text-wrapper-4 {
-    top: 90px;
-    left: 59px;
+    top: 155px;
+    left: 105px;
     position: absolute;
     font-family: 'M PLUS 1p', sans-serif;
     font-weight: 400;
